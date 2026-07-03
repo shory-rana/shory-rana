@@ -1,16 +1,17 @@
 ## Hi there 👋
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jannatul-fredaues&show_icons=true&theme=tokyonight)](https://github.com/jannatul-fredaues)
 
-<!--
-**shory-rana/shory-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatul-fredaues&layout=compact&theme=tokyonight)](https://github.com/jannatul-fredaues)
 
-Here are some ideas to get you started:
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.vercel.app/?user=jannatul-fredaues&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Activity / PR / Issues / Stars -->
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannatul-fredaues&theme=tokyonight)](https://github.com/jannatul-fredaues)
+
+<!-- Extra stats -->
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannatul-fredaues&theme=tokyonight)](https://github.com/jannatul-fredaues)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatul-fredaues&theme=tokyonight)](https://github.com/jannatul-fredaues)
